@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.13;
 
+import "../solidity_utils/lib.sol";
+
 error CoffeeBreak();
 
 contract Counter {
