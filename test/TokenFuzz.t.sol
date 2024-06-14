@@ -1,5 +1,5 @@
-// // SPDX-License-Identifier: UNLICENSED
-// pragma solidity ^0.8.15;
+// SPDX-License-Identifier: UNLICENSED
+pragma solidity ^0.8.15;
 
 import "lib/forge-std/src/Test.sol";
 import {Token} from "src/Token.sol";
